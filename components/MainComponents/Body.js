@@ -8,7 +8,7 @@ export default function Body() {
     <S.Container>
       <S.Row>
 
-        <a href="/CategoryComponents/Service/Service">
+        <a href="/Service">
           <S.Layout1><S.LayoutImg1 src='/img/service.png' /><S.Layout1Text>서비스</S.Layout1Text></S.Layout1>
           
         </a>
